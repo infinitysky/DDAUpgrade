@@ -1,0 +1,13 @@
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\bin\Debug\ZiiPOS Retail UpgradeTool.exe.config
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\bin\Debug\ZiiPOS Retail UpgradeTool.exe
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\bin\Debug\ZiiPOS Retail UpgradeTool.pdb
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\obj\Debug\ZiiPOS Retail UpgradeTool.csprojAssemblyReference.cache
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\obj\Debug\ZiiPOS_Retail_UpgradeTool.Form1.resources
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\obj\Debug\ZiiPOS_Retail_UpgradeTool.Properties.Resources.resources
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\obj\Debug\ZiiPOS Retail UpgradeTool.csproj.GenerateResource.cache
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\obj\Debug\ZiiPOS Retail UpgradeTool.csproj.CoreCompileInputs.cache
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\obj\Debug\ZiiPOS Retail UpgradeTool.exe
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\obj\Debug\ZiiPOS Retail UpgradeTool.pdb
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\bin\Debug\Newtonsoft.Json.dll
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\bin\Debug\Newtonsoft.Json.xml
+D:\Nan_Dev\DDAUpgrade\ZiiPOS Retail UpgradeTool\ZiiPOS Retail UpgradeTool\obj\Debug\ZiiPOS Retail UpgradeTool.csproj.CopyComplete
